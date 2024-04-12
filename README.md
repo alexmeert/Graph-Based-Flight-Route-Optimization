@@ -11,4 +11,4 @@ network, enabling tasks such as finding the shortest path between airports.
 Building on the connectivity map, the system employs graph
 algorithms like DFS, BFS, Dijkstra's, Prim’s and Kruskal’s to find the most efficient routes between
 airports. This feature helps in identifying optimal routes for passengers and cargo, potentially
-reducing travel time and costs
+reducing travel time and costs.
